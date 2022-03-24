@@ -7,7 +7,18 @@ Authors, releasers and maintainers: Dr. Andrea Loddo, Dr. Lorenzo Putzu - Univer
 
 NOTE: please cite one of the following pubblication in case of using these images in your own work:
 
-% TODO
+@Article{app12073269,
+AUTHOR = {Loddo, Andrea and Putzu, Lorenzo},
+TITLE = {On the Reliability of CNNs in Clinical Practice: A Computer-Aided Diagnosis System Case Study},
+JOURNAL = {Applied Sciences},
+VOLUME = {12},
+YEAR = {2022},
+NUMBER = {7},
+ARTICLE-NUMBER = {3269},
+URL = {https://www.mdpi.com/2076-3417/12/7/3269},
+ISSN = {2076-3417},
+DOI = {10.3390/app12073269}
+}
 
 # LICENSE
 MIT License
